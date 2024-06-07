@@ -1,2 +1,2 @@
 # Testing
-testing the mic
+testing my project as a newbie
